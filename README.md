@@ -13,4 +13,4 @@ Homepage > Category Page 1 > Category Page 2 > Category Page 3 > Product Page > 
 
 ## Test Artifacts:
 ### [Test Script (.jmx File)](https://github.com/krithigav/RS_Group/blob/main/Test%20Artifacts/Script/RS_ECOM_Addtocart.jmx)
-### [Test Results (.jtl File)]
+### [Test Results (.jtl File)](https://github.com/krithigav/RS_Group/blob/main/Test%20Artifacts/Test%20Results/RAMP_Test1.JTL)

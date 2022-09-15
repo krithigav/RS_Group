@@ -2,7 +2,7 @@
 Performance Test Artifacts of RS Group Performance Testing exercise
 
 ## Objective:
-The objective is to conduct performance test for RS Components’ Irish Website
+The objective is to conduct performance test for RS Group’s Irish Website
 
 ## Test Requirements:
 
